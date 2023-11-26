@@ -19,5 +19,5 @@ Depuração e Testes: Utilização de ferramentas de depuração e técnicas de 
 
 
 </div>
-**Sinta-se à vontade para explorar os materiais presentes neste repositório e contribuir para o aprimoramento coletivo do conhecimento em Desenvolvimento de Aplicações com QT Creator em C++. Boa jornada de aprendizado!**
+  <strong> Sinta-se à vontade para explorar os materiais presentes neste repositório e contribuir para o aprimoramento coletivo do conhecimento em Desenvolvimento de Aplicações com QT Creator em C++. Boa jornada de aprendizado!   <strong>
 </div>
