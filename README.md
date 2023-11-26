@@ -16,8 +16,7 @@ Desenvolvimento de Aplicações Multithread: Implementação de funcionalidades 
 Projeto de Interfaces Gráficas Avançadas: Criação de interfaces gráficas avançadas, explorando recursos avançados do QT Creator.
 Depuração e Testes: Utilização de ferramentas de depuração e técnicas de teste para garantir a robustez da aplicação.
 
-
-
+## Contribuições
 </div>
   <strong> Sinta-se à vontade para explorar os materiais presentes neste repositório e contribuir para o aprimoramento coletivo do conhecimento em Desenvolvimento de Aplicações com QT Creator em C++. Boa jornada de aprendizado!   <strong>
 </div>
